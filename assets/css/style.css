@@ -1,0 +1,512 @@
+*{
+    padding: 0PX;
+    margin: 0PX;
+    box-sizing: border-box;
+}
+body{
+    background-color: brown;
+}
+
+.head1{
+    display: flex;
+    gap:2px;
+}
+.squreone{
+    width: 25vw;
+    height: 25vh;
+    background-color: rgb(224, 184, 184);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.franc1{
+    width:80px;
+    height:100px;
+    background-color: red;
+}
+.franc2{
+    width:80px;
+    height:100px;
+    background-color:#ffffff;
+
+}
+.franc3{
+    width:80px;
+    height:100px;
+    background-color: blue;
+}
+.squretwo{
+    width: 25vw;
+    height: 25vh;
+    background-color: rgb(224, 184, 184);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Belgium1{
+    width:80px;
+    height:100px;
+    background-color: black;
+}
+.Belgium2{
+    width:80px;
+    height:100px;
+    background-color: yellow;
+}
+.Belgium3{
+    width:80px;
+    height:100px;
+    background-color: red;
+}
+.squrethree{
+    width: 25vw;
+    height: 25vh;
+    background-color: rgb(224, 184, 184);
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    flex-direction: column;
+}
+.syria1{
+    width:240px;
+    height:40px;
+    background-color: red;
+}
+.syria2{
+    width:240px;
+    height:40px;
+    background-color:#ffffff;
+
+}
+.syria3{
+    width:240px;
+    height:40px;
+    background-color: black;
+}
+.fa-solid{
+    color: green;
+    margin-left: 55px;
+    margin-top: 4px;
+    font-size: 30px;
+}
+.squrefour{
+    width: 25vw;
+    height: 25vh;
+    background-color: rgb(224, 184, 184);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.italy1{
+    background-color:rgb(65, 105, 4);
+    width:80px;
+    height:100px;
+}
+.italy2{
+    background-color:white;
+    width:80px;
+    height:100px;
+}
+.italy3{
+    background-color:red;
+    width:80px;
+    height:100px;
+}
+.head2{
+    display: flex;
+    gap:2px;
+}
+.squrefife{
+    width: 25vw;
+    height: 25vh;
+    background-color: rgb(224, 184, 184);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2px;
+}
+.japan1{
+    background-color: white;
+    width: 240px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cirkle{
+    width: 70px;
+    height: 70px;
+    border-radius: 70px;
+    background-color: red;
+}
+.squresix{
+    width: 25vw;
+    height: 25vh;
+    background-color: rgb(224, 184, 184);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2px
+}
+.colomb1{
+    background-color:rgb(65, 105, 4);
+    width:80px;
+    height:100px;
+}
+.colomb2{
+    background-color:red;
+    width:80px;
+    height:100px;
+}
+svg{
+    color: yellow;
+    margin-left: 23px;
+    margin-top: 35px;
+}
+.colomb3{
+    width:80px;
+    height:100px;
+    background-color: yellow;
+}
+.squresiven{
+    width: 25vw;
+    height: 25vh;
+    background-color: rgb(224, 184, 184);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2px;
+    flex-direction: column;
+    {}
+}
+.egypt1{
+    width:240px;
+    height:40px;
+    background-color: red;
+}
+.egypt2{
+    width:240px;
+    height:40px;
+    background-color: white;
+}
+.egypt3{
+    width:240px;
+    height:40px;
+    background-color: black;
+}
+.squreeight{
+    width: 25vw;
+    height: 25vh;
+    background-color: rgb(224, 184, 184);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2px;
+    flex-direction: column;
+}
+.arjntin1{
+    width:240px;
+    height:40px;
+    background-color: rgb(139, 184, 226);
+}
+.arjntin2{
+    width:240px;
+    height:40px;
+    background-color: white;
+}
+.arjntin3{
+    width:240px;
+    height:40px;
+    background-color: rgb(139, 184, 226);
+}
+.head3{
+    display: flex;
+    gap:2px;
+}
+.squrenine{
+    width: 25vw;
+    height: 25vh;
+    background-color: rgb(224, 184, 184);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2px;
+    flex-direction: column;
+    position: relative;
+}
+.jer1{
+    width:240px;
+    height:40px;
+    background-color: black;
+}
+.jer2{
+    width:240px;
+    height:40px;
+    background-color: red;
+}
+.jer3{
+    width:240px;
+    height:40px;
+    background-color: yellow;
+}
+.squreten{
+    width: 25vw;
+    height: 25vh;
+    background-color: rgb(224, 184, 184);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2px;
+    flex-direction: column;
+    position: relative;
+} 
+.pal1{
+    width:240px;
+    height:40px;
+    background-color: black;
+}  
+.pal2{
+    width:240px;
+    height:40px;
+    background-color: white;
+}
+.pal3{
+    width:240px;
+    height:40px;
+    background-color: green;
+}
+.palredw{
+    border-bottom: 60px solid transparent;
+    border-top: 60px solid  transparent;
+    border-left: 60px solid red;
+    position: absolute;
+    left: 44px;
+}
+.squreeleven{
+    width: 25vw;
+    height: 25vh;
+    background-color: rgb(224, 184, 184);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2px;
+    flex-direction: column;
+    position: relative;
+}
+.lob1{
+    width:240px;
+    height:40px;
+    background-color: red;
+}
+.lob2{
+    width:240px;
+    height:40px;
+    background-color: white;
+}
+.lob2 img{
+    background-color: #ffffff00;
+    width: 50px;
+    height: 30px;
+    position: absolute;
+    left: 138px;
+    top: 67px;
+}
+.lob3{
+    width:240px;
+    height:40px;
+    background-color: red;
+}
+.tree img{
+    width:50px;
+    height:50px;
+    margin-left: 93px;
+    
+}
+
+.squretuelv{
+    width: 25vw;
+    height: 25vh;
+    background-color: rgb(224, 184, 184);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2px;
+    flex-direction: column;
+    position: relative;
+}
+.uae1{
+    width:240px;
+    height:40px;
+    background-color: green;
+}
+.uae2{
+    width:240px;
+    height:40px;
+    background-color: white;
+}
+.uae3{
+    width:240px;
+    height:40px;
+    background-color: black;
+}
+.ruae{
+    position: relative;
+}
+.Cr{
+    width: 35px;
+    height: 120px;
+    background-color: red;
+    position: absolute;
+    left: 44px;
+
+}
+.head4{
+    display: flex;
+    gap:2px;
+    position: relative
+}
+.fone{
+    width: 25vw;
+    height: 24vh;
+    background-color: rgb(224, 184, 184);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2px;
+    flex-direction: column;
+}
+.realb{
+    width:240px;
+    height: 20px;
+    background-color: blue;
+}
+.realy{
+    width: 240px;
+    height: 6px;
+    background-color: rgb(199, 199, 11);
+}
+.realw img{
+    position: absolute;
+    bottom: 30px;
+    left: 125px;
+    width: 75px;
+    height: 100px;
+    background-color: #ffffff00;
+
+}
+.realw{
+    width:240px;
+    height: 68px;   
+    background-color: white;
+}
+.ftwo{
+    width: 25vw;
+    height: 24vh;
+    background-color: rgb(224, 184, 184);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2px;
+    flex-direction: column;
+    position: relative;
+}
+
+.br{
+    height: 60px;
+    width: 240px;
+    background-color: rgb(204, 32, 32);
+}
+.bw{
+    height: 60px;
+    width: 240px;
+    background-color: white
+
+}
+.Ibiern img{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-color: rgba(0, 255, 255, 0);
+    left: 115px;
+    top: 30px;
+
+}
+.fthree{
+    width: 25vw;
+    height: 24vh;
+    background-color: rgb(224, 184, 184);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2px;
+    position: relative;
+    
+}
+.ab{
+    height: 120px;
+    width: 240px;
+    background-color: black;
+    
+}
+.ab img{
+    width: 80px;
+    height: 120px;
+    background-color: #ffffff00;
+    position: absolute;
+    left: 125px;
+    top: 18px;
+}
+.ar{
+    width: 35px;
+    height: 120px;
+    background-color: red;
+    position: absolute;
+    right:80px;
+}
+.ar2{
+    width: 35px;
+    height: 120px;
+    background: red;
+    position: absolute;
+    left: 80px;
+
+}
+.ffour{
+    width: 25vw;
+    height: 24vh;
+    background-color: rgb(224, 184, 184);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2px;
+    flex-direction: column;
+    position: relative;
+}
+.Mr{
+    height: 45px;
+    width: 240px;
+    background-color: red;
+}
+.Mw{
+    height: 30px;
+    width: 240px;
+    background-color: white;
+}
+.Mw img{
+    background-color: #ffffff00;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 115px;
+    top: 30px;
+}
+.Mb{
+    height: 45px;
+    width: 240px;
+    background-color: black;
+}
+img{
+    background: white;
+}
